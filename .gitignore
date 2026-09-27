@@ -5,6 +5,8 @@ env/
 parkinson_env/
 Disease/my_env/
 Disease/parkinson_env/
+Disease/.local/
+Disease/.git.upload-backup/
 
 # Python generated files
 __pycache__/
@@ -13,4 +15,5 @@ __pycache__/
 
 # Local application state
 .streamlit/secrets.toml
+*.state
 *.log
